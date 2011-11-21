@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2008, 2009, Wayne Meissner
+ * Copyright (c) 2008, 2009, Wayne Meissner rr
  *
  * All rights reserved.
  *
